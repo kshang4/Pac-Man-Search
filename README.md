@@ -1,4 +1,4 @@
-This Python project shows examples of search algorithms through Pac-Man.
+This Python (3.6) project shows examples of search algorithms through Pac-Man.
 
 To play a regular game of Pac-Man, run command "python pacman.py"
 
